@@ -2,10 +2,10 @@
 
 One place for BCA labsheet of all subject and all semester.
 
-## Demo 
+## How To Download
 <img src="Screenshot_20220810_010237.png" alt="example"  >
 
-## Installation
+## How To Download ALL at once 
 #### Requirement:- [Git](https://git-scm.com/downloads)
 
 Use  git to download all folder recursively at once.
