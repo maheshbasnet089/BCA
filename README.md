@@ -3,7 +3,7 @@
 One place for BCA labsheet of all subject and all semester.
 
 ## How To Download
-<img src="Screenshot_20220810_010237.png" alt="example"  >
+https://user-images.githubusercontent.com/70196462/184067186-a2242353-a788-4b15-a048-7564e92a0eb7.mp4
 
 ## How To Download ALL at once 
 #### Requirement:- [Git](https://git-scm.com/downloads)
