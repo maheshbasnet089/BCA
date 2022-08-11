@@ -6,13 +6,8 @@ One place for BCA labsheet of all subject and all semester.
 https://user-images.githubusercontent.com/70196462/184067186-a2242353-a788-4b15-a048-7564e92a0eb7.mp4
 
 
-
 ## How To Download ALL at once 
 #### Requirement:- [Git](https://git-scm.com/downloads)
-
-
-https://user-images.githubusercontent.com/70196462/184160709-330bdda2-4ddc-4c94-97e0-058368f6ffa5.mov
-
 
 Use  git to download all folder recursively at once.
 
