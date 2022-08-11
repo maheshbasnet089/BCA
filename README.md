@@ -3,7 +3,9 @@
 One place for BCA labsheet of all subject and all semester.
 
 ## How To Download
-https://user-images.githubusercontent.com/70196462/184067186-a2242353-a788-4b15-a048-7564e92a0eb7.mp4
+
+
+https://user-images.githubusercontent.com/70196462/184169006-96ffa8cd-29a9-4d58-a7de-a817a51d4d16.mov
 
 
 ## How To Download ALL at once 
@@ -12,8 +14,8 @@ https://user-images.githubusercontent.com/70196462/184067186-a2242353-a788-4b15-
 Use  git to download all folder recursively at once.
 
 ```bash
-git clone https://github.com/maheshbasnet089/BCA-Labsheets.git
-cd BCA-Labsheets
+git clone https://github.com/maheshbasnet089/BCA.git
+cd BCA
 
 ```
 
