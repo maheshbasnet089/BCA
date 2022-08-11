@@ -1,6 +1,5 @@
-# BCA LABSHEETS
-
-One place for BCA labsheet of all subject and all semester.
+# BCA 
+Place where all the notes,labsheets,old questions,model questions and many more of BCA faculty is available for free. 
 
 ## How To Download
 
