@@ -1,7 +1,7 @@
 # BCA 
 Place where  the notes,labsheets,old questions,model questions and many more of BCA faculty all semester is available for free. 
 
-## How To Download
+## How To Download Files
 
 
 https://user-images.githubusercontent.com/70196462/184169006-96ffa8cd-29a9-4d58-a7de-a817a51d4d16.mov
