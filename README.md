@@ -1,5 +1,5 @@
 # BCA 
-Place where all the notes,labsheets,old questions,model questions and many more of BCA faculty all semester is available for free. 
+Place where all the notes,labsheets,old questions,model questions and many more of BCA faculty all semester is available.
 
 ## How To Download Files
 
