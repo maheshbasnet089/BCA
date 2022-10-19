@@ -1,5 +1,5 @@
-# BC
-Repository where all the notes,labsheets,old questions,model questions,presentation slides and many more of BCA faculty all semester is available.
+# BCA
+Repository where all the notes,labsheets,old questions,model questions,presentation slides and many more of BCA faculty are available.
 
 ## How To Download Files
 
