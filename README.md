@@ -21,5 +21,5 @@ cd BCA
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-If you have got more labsheet file with you or your friends, feel free to open pull request , or you can send your files at fghtcorona@gmai
+If you have got more labsheet file with you or your friends, feel free to open pull request , or you can send your files at basnetmanish089@gmail.com
 
